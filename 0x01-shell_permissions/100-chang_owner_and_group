@@ -1,1 +1,0 @@
-#!/bin/bash\nchown vincent /alx-system_engineering-devops/0x01-shell_permissions; chgrp /alx-system_engineering-devops/0x01-shell_permissions
