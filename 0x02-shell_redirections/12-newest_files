@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lt
+find . -type f printf ''%p\n'' 
